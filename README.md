@@ -100,7 +100,7 @@ The dataset includes fictional sales data:
 
 ## 🔗 Links
 
-- 📂 **Project Repository:** [GitHub Repository Link](#)  
+- 📂 **Project Repository:** [GitHub Repository Link](https://github.com/Anujsh4rm4/Financial_sale_Dashboard--PowerBI)  
 - 💼 **Connect on LinkedIn:** [Anuj Sharma](https://www.linkedin.com/in/anuj-sharma-40215bb6//)  
 
 ---
